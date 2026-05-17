@@ -1,0 +1,12 @@
+run this app : run_app
+run this : run_app
+execute this app : run_app
+execute the app : run_app
+start this app : run_app
+launch this app : run_app
+open this app : run_app
+do it : run_app
+run now : run_app
+open the app : run_app
+start the application : run_app
+run this fucking app or else : run_app

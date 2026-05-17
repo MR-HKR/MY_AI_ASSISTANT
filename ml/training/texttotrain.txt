@@ -1,0 +1,312 @@
+clean pc : clean
+clean the  pc : clean
+make this pc clean : clean
+i want you to clean this pc : clean
+clean my pc : clean
+clean the computer : clean
+clean this pc : clean
+make my pc clean : clean
+cleanup my system : clean
+clear junk files : clean
+free up space : clean
+optimize pc : clean
+do a pc cleanup : clean
+cleen my pc : clean
+pls clean pc : clean
+clean it : clean
+
+help : help
+help me : help
+i need help : help
+can you help : help
+help pls : help
+help me ai : help
+assist me : help
+i'm stuck : help
+what can you do : help
+how does this work : help
+halp : help
+i want some help : help
+help me pls : help
+help me fucking ai : help
+
+run this automatically : auto_script
+run this on startup : auto_script
+run this when you start : auto_script
+make this run automatically : auto_script
+set this to autorun : auto_script
+start this on boot : auto_script
+auto run this script : auto_script
+run script at startup : auto_script
+launch this on login : auto_script
+make this script automatic : auto_script
+run this on start : auto_script
+wanna make this run from start : auto_script
+run this fucking script automatically bitch : auto_script
+
+run this script : run_script
+run this : run_script
+execute this : run_script
+execute the script : run_script
+start this script : run_script
+launch this : run_script
+play this script : run_script
+do it : run_script
+run now : run_script
+run the file : run_script
+execute this script : run_script
+run this fucking script or else: run_script
+
+run this app : run_app
+run this : run_app
+execute this app : run_app
+execute the app : run_app
+start this app : run_app
+launch this app : run_app
+open this app : run_app
+do it : run_app
+run now : run_app
+open the app : run_app
+start the application : run_app
+run this fucking app or else : run_app
+
+check health : healthchk
+execute health check : healthchk
+start health check : healthchk
+launch health check : healthchk
+do a health check : healthchk
+perform health check : healthchk
+check system health : healthchk
+execute the health check : healthchk
+start the system check : healthchk
+check now : healthchk
+run this fucking health check or else : healthchk
+healthcheck : healthchk
+my pc health : healthchk
+
+
+
+pause music : pause_music
+pause sound : pause_music
+stop music : pause_music
+mute audio : pause_music
+mute sounds : pause_music
+turn off music : pause_music
+silence audio : pause_music
+pause the sounds : pause_music
+make music stop : pause_music
+shut the music up : pause_music
+make the music stop : pause_music
+pls pause the music : pause_music
+turn off the music : pause_music
+make this fucking music stop : pause_music
+stop the music : pause_music
+
+play music : play_music
+resume music : play_music
+unpause music : play_music
+turn music on : play_music
+play sounds : play_music
+start music : play_music
+bring music back : play_music
+resume audio : play_music
+let me hear music : play_music
+play the song : play_music
+play the music : play_music
+make the sounds play : play_music
+i want the music back : play_music
+give me the music : play_music
+bring back the music : play_music
+let me hear some music : play_music
+fucking bring my mega cool music : play_music
+
+test my internet : internet_test
+check internet speed : internet_test
+how fast is my connection : internet_test
+internet speed test : internet_test
+ping test : internet_test
+check my wifi : internet_test
+is my internet working : internet_test
+speed test online : internet_test
+measure internet speed : internet_test
+check network speed : internet_test
+test wifi connection : internet_test
+how strong is my connection : internet_test
+internet working : internet_test
+is wifi fast : internet_test
+run speed test : internet_test
+check latency : internet_test
+internet quality test : internet_test
+my connection speed : internet_test
+wifi speed test : internet_test
+fucking test my internet : internet_test
+
+
+show me the news : news
+show the news : news
+give me the news : news
+let me see the news : news
+display the news : news
+show news : news
+see the news : news
+i want to see the news : news
+show me news : news
+give me news : news
+display news : news
+pull up the news : news
+show the latest news : news
+give me the latest news : news
+show me the latest news : news
+latest news : news
+show latest news : news
+get the news : news
+load the news : news
+open the news : news
+bring up the news : news
+show me today's news : news
+give me today's news : news
+today's news : news
+news today : news
+show today news : news
+give today news : news
+show me current news : news
+current news : news
+news now : news
+show news now : news
+whats the news : news
+what's the news : news
+what is the news : news
+news please : news
+news pls : news
+pls show news : news
+show me the fucking news : news
+give me the fucking news : news
+i wanna see the news : news
+i want the news : news
+news : news
+
+
+
+
+pc : unknown
+my pc : unknown
+this pc : unknown
+that pc : unknown
+the pc : unknown
+
+this is my pc : unknown
+that is my pc : unknown
+this is a pc : unknown
+it is a pc : unknown
+i have a pc : unknown
+i own a pc : unknown
+
+my computer : unknown
+this computer : unknown
+that computer : unknown
+the computer : unknown
+
+this is my computer : unknown
+that is my computer : unknown
+i have a computer : unknown
+i own a computer : unknown
+
+my desktop : unknown
+this desktop : unknown
+that desktop : unknown
+the desktop : unknown
+
+this is my desktop : unknown
+i have a desktop : unknown
+
+my laptop : unknown
+this laptop : unknown
+that laptop : unknown
+the laptop : unknown
+
+this is my laptop : unknown
+i have a laptop : unknown
+
+pc here : unknown
+computer here : unknown
+desktop here : unknown
+laptop here : unknown
+
+my pc right here : unknown
+this pc right here : unknown
+
+pc system : unknown
+computer system : unknown
+my system : unknown
+this system : unknown
+
+windows pc : unknown
+linux pc : unknown
+gaming pc : unknown
+office pc : unknown
+
+old pc : unknown
+new pc : unknown
+broken pc : unknown
+working pc : unknown
+
+pc info : unknown
+pc details : unknown
+about my pc : unknown
+
+run : unknown
+start : unknown
+launch : unknown
+execute : unknown
+do : unknown
+make : unknown
+initiate : unknown
+kick : unknown
+perform : unknown
+play : unknown
+check : unknown
+
+now : unknown
+right now : unknown
+automatically : unknown
+on startup : unknown
+on boot : unknown
+from start : unknown
+at startup : unknown
+
+pls : unknown
+please : unknown
+me : unknown
+some : unknown
+
+this : unknown
+that : unknown
+it : unknown
+here : unknown
+there : unknown
+my : unknown
+your : unknown
+
+pc : unknown
+computer : unknown
+desktop : unknown
+laptop : unknown
+system : unknown
+app : unknown
+application : unknown
+file : unknown
+script : unknown
+
+fucking : unknown
+fuck : unknown
+bitch : unknown
+or else : unknown
+
+i want : unknown
+i need : unknown
+can you : unknown
+how does : unknown
+what can : unknown
+let me : unknown
+give me : unknown
+bring back : unknown
