@@ -84,6 +84,94 @@ run this fucking health check or else : healthchk
 healthcheck : healthchk
 my pc health : healthchk
 
+run health check : healthchk
+run a health check : healthchk
+run system health check : healthchk
+run diagnostics : healthchk
+run diagnostic : healthchk
+run pc diagnostics : healthchk
+scan system health : healthchk
+scan my pc : healthchk
+scan the system : healthchk
+analyze system health : healthchk
+analyze my computer : healthchk
+inspect system health : healthchk
+inspect my pc : healthchk
+verify system health : healthchk
+verify pc condition : healthchk
+system health status : healthchk
+pc health status : healthchk
+show health status : healthchk
+show system condition : healthchk
+show pc condition : healthchk
+get system health : healthchk
+get pc health : healthchk
+display health info : healthchk
+display system health : healthchk
+open health checker : healthchk
+open system diagnostics : healthchk
+open health monitor : healthchk
+begin health check : healthchk
+begin diagnostics : healthchk
+begin system scan : healthchk
+initialize health check : healthchk
+trigger health check : healthchk
+trigger diagnostics : healthchk
+activate health check : healthchk
+activate diagnostics : healthchk
+full health check : healthchk
+quick health check : healthchk
+deep health scan : healthchk
+complete system check : healthchk
+computer health check : healthchk
+machine health check : healthchk
+device health check : healthchk
+windows health check : healthchk
+check computer condition : healthchk
+check machine condition : healthchk
+check pc status : healthchk
+check system status : healthchk
+how healthy is my pc : healthchk
+is my pc healthy : healthchk
+is my computer okay : healthchk
+diagnose my computer : healthchk
+diagnose my pc : healthchk
+test system health : healthchk
+test my pc : healthchk
+health diagnostics : healthchk
+system diagnostics : healthchk
+pc diagnostics : healthchk
+run the damn health check : healthchk
+do the damn system scan : healthchk
+check this shitty pc : healthchk
+scan this damn computer : healthchk
+fix and check health : healthchk
+health scan now : healthchk
+start diagnostics immediately : healthchk
+check everything : healthchk
+scan for problems : healthchk
+look for system issues : healthchk
+find pc issues : healthchk
+search for hardware issues : healthchk
+detect system problems : healthchk
+system inspection : healthchk
+hardware health check : healthchk
+software health check : healthchk
+overall system health : healthchk
+health report : healthchk
+generate health report : healthchk
+give me pc health info : healthchk
+tell me system health : healthchk
+status check : healthchk
+system status check : healthchk
+pc status check : healthchk
+health audit : healthchk
+perform diagnostics : healthchk
+execute diagnostics : healthchk
+launch diagnostics : healthchk
+start diagnostics : healthchk
+run health diagnostics : healthchk
+
 
 
 pause music : pause_music

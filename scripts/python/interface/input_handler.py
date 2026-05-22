@@ -2,13 +2,13 @@
 class interface:
 
     def __init__(self):
-        self.message = ''
+        self.text = ''
     
     
 
     def text_interface(self):
-        text_input = input('>')
-        self.message = text_input
+        text_input = input('> ')
+        self.text = text_input
 
     
         

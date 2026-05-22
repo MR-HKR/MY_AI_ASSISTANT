@@ -6,12 +6,16 @@ from storage.config.data_paths import paths
 
 from scripts.python.interface.voices.TextSpeaker import speak
 
-newsmodpath = 'scripts/Services/News_Service.py'
+newsservice =paths.ServicesPath + '/News_Service.py'
 
 
-def run_script(script_name, args=None):
+def run_script(script_name, args=None,health = False):
 
-    script = Path(paths.BashCommands) / script_name
+    if health:
+        script = Path(paths.HealthBashCommands) / script_name
+
+    else:
+        script = Path(paths.BashCommands) / script_name
 
     return RunBash(str(script), args)
 
@@ -23,7 +27,7 @@ def cleandisk():
 
 def pchealthcheck():
 
-    run_script('healthchk.sh')
+    run_script('healthchk.sh',health=True)
 
 
 def testinternet():
@@ -47,7 +51,7 @@ def music(state=False):
 
 
 def News():
-    run_script('open_terminal.sh',[paths.MainScriptFolder,newsmodpath])
+    run_script('open_terminal.sh',[paths.MainScriptFolder, newsservice])
 
 
 

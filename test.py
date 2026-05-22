@@ -1,9 +1,6 @@
-import requests
+from scripts.Services.Health_Service import Health_Service
 
-url = 'https://www.bbc.com/news'
+from scripts.python.interface.voices.TextSpeaker import speak2
 
-response = requests.get('https://www.bbc.com/news')
 
-with open('html.txt','w') as f:
-    f.write(response.text)
-    
+speak2('hi thre.. and... uhhh.. fuck you')
